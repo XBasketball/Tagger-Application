@@ -4,7 +4,7 @@ from datetime import datetime, date
 from collections import defaultdict
 import re
 import time  # NEW: for monotonic timing
-from streamlit_autorefresh import st_autorefresh
+
 
 st.set_page_config(page_title="StFx Mens Basketball Tagger", layout="wide")
 
