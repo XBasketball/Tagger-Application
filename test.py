@@ -13,9 +13,9 @@ st.set_page_config(page_title="StFx Mens Basketball Tagger", layout="wide")
 # ---------------------------
 # Put your roster here (strings shown in the Player picker)
 ROSTER = [
-    "Player 1", "Player 2", "Player 3", "Player 4", "Player 5",
-    "Player 6", "Player 7", "Player 8", "Player 9", "Player 10",
-    "Player 11", "Player 12"
+    "DJ Jackson", "Matt Pennell", "Koat Thomas", "Nic Naire", "Jeff Ngandu",
+    "Phoenyx Wyse", "Tariq Armstrong", "Will Tong", "Tim Bilek", "Jayden Webley",
+    "Dakoda Lewis", "Gabe Marcotullio"
 ]
 
 # ---------------------------
